@@ -14,6 +14,7 @@
   },
   "scripts": {
     "start": "layer0 dev",
+    "start-cache": "layer0 dev --cache",
     "build": "layer0 build",
     "prod": "layer0 run --production",
     "deploy": "layer0 deploy --team=demos"
